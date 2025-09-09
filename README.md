@@ -1,0 +1,1 @@
+This is a repository dedicated to my work in MCB 112: Biological Sequence Analysis. The problem sets within this repository entail development of statistical prediction methods within genomics, algorithms for diagnosis, and miscellaneous programs that work in the realm of probability and analysis.
